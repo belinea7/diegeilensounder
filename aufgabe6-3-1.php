@@ -12,7 +12,7 @@
    <thead id="tableHead">
     <tr>
      <th>Wixer</th>
-     <th>Nachname</th>
+     <th>UHU</th>
      <th>Geschlecht</th>
      <th>Abteilung</th>
     </tr>
