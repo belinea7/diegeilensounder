@@ -11,7 +11,7 @@
   <table id="myTable">
    <thead id="tableHead">
     <tr>
-     <th>Vorname</th>
+     <th>Wixer</th>
      <th>Nachname</th>
      <th>Geschlecht</th>
      <th>Abteilung</th>
